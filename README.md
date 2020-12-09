@@ -1,11 +1,11 @@
 # SC_memo
 some general setting / key concept codes in supercollider
 
-* [shortcut](#shortcut)
-* [symbols](#symbols)
+* [Shortcut](#shortcut)
+* [Symbols](#symbols)
   * [common Boolean operators](#common-Boolean-operators)
   * [punctuation marks](#punctuation-marks)
-
+* [Basic Setup](#basic-setup)
 
 <br>
 
@@ -54,3 +54,12 @@ explicitly name the arguments: tab after opening the parentheses
 
 { } // curly brackets/braces, Geschweifte Klammern
 
+<br>
+
+## Basic Setup
+
+<br>
+
+```
+s.boot;
+```
