@@ -37,16 +37,12 @@ explicitly name the arguments: tab after opening the parentheses
 
 <br>
 
-### common Boolean operators
-
-<br>
+### common Boolean operators <br>
 
 ![common Boolean operators](https://github.com/mewithoutnara/sc_-memo/blob/main/general/common%20Boolean%20operators.png) <br>
 <br>
 
-### punctuation marks
-
-<br>
+### punctuation marks <br>
 
 „ ” // Gänsefüßchen
 
