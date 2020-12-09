@@ -1,4 +1,4 @@
-# sc_memo
+# SC_memo
 some general setting / key concept codes in supercollider
 
 * [shortcut](#shortcut)
@@ -9,7 +9,7 @@ some general setting / key concept codes in supercollider
 
 <br>
 
-## shortcut
+## Shortcut
 
 Boot Server: Cmd + B
 
@@ -33,7 +33,7 @@ explicitly name the arguments: tab after opening the parentheses
 
 <br>
 
-## symbols
+## Symbols
 
 <br>
 
