@@ -2,7 +2,10 @@
 some general setting / key concept codes in supercollider
 
 * [shortcut](#shortcut)
-* [punctuation marks](#punctuation-marks)
+* [symbols](#symbols)
+  * [common Boolean operators](#common-Boolean-operators)
+  * [punctuation marks](#punctuation-marks)
+
 
 <br>
 
@@ -30,7 +33,20 @@ explicitly name the arguments: tab after opening the parentheses
 
 <br>
 
-## punctuation marks
+## symbols
+
+<br>
+
+### common Boolean operators
+
+<br>
+
+![common Boolean operators](https://github.com/mewithoutnara/sc_-memo/blob/main/general/common%20Boolean%20operators.png) <br>
+<br>
+
+### punctuation marks
+
+<br>
 
 „ ” // Gänsefüßchen
 
