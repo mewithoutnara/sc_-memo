@@ -10,7 +10,7 @@
 
 <br>
 
-## I Ching hexagrams / 周易后天六十四卦 <br>
+## I Ging die Hexagramme / 周易后天六十四卦 <br>
 
 ↓→  ☰ &nbsp; ☱ &nbsp; ☲ &nbsp; ☳ &nbsp; ☴ &nbsp; ☵ &nbsp; ☶ &nbsp; ☷ <br>
 ☰                             <br>
@@ -54,7 +54,7 @@
 erstellt @ 2020.12.10
 
 ```supercollider
-( /// I Ging hexagram _ Schicksalvorhersage ///
+( /// I Ging Die Hexagramme _ Schicksalvorhersage ///
 var bi = ["⚊", "⚋"];
 6.do{
 	bi.choose.postln;
@@ -79,7 +79,7 @@ Task({
 ```
 <br>
 
-Weiterentwicklung mit Hexagram? <br>
+Weiterentwicklung mit Hexagramme? <br>
 
 <br>
 
