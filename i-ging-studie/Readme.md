@@ -53,7 +53,7 @@
 
 erstellt @ 2020.12.10
 
-```
+```supercollider
 ( /// I Ging hexagram _ Schicksalvorhersage ///
 var bi = ["⚊", "⚋"];
 6.do{
