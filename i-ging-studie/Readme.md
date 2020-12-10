@@ -95,5 +95,6 @@ Weiterentwicklung mit Hexagram? <br>
 <br>
 
 * ## Weiterführende Literatur <br>
-*Foreword by Carl Gustav Jung* &nbsp; <https://www.iging.com/intro/foreword.htm> <br>
+*Foreword to the I Ching von Carl Gustav Jung* &nbsp; <https://www.iging.com/intro/foreword.htm> <br>
+*Synchronizität* &nbsp; <https://de.wikipedia.org/wiki/Synchronizit%C3%A4t> <br>
 *Monadologie von Gottfried Wilhelm Leibniz* &nbsp; <https://de.wikipedia.org/wiki/Monadologie>
