@@ -60,6 +60,6 @@ explicitly name the arguments: tab after opening the parentheses
 
 <br>
 
-```
+```supercollider
 s.boot;
 ```
