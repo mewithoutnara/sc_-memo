@@ -49,6 +49,41 @@
 
 <br>
 
+## Realisation in SuperCollider
+
+10. 12. 2020
+
+```
+( /// I Ging hexagram _ Schicksalvorhersage ///
+var bi = ["⚊", "⚋"];
+6.do{
+	bi.choose.postln;
+}
+)
+
+
+
+
+( /// von Patrick Bogeat “oder gleich automatisch jeden Morgen :)” ///
+Task({
+  var bi = ["⚊", "⚋"];
+  inf.do {
+    6.do {
+      bi.choose.postln;
+    };
+    (60*60*24).wait;
+    "".postln;
+  };
+}).play
+)
+```
+<br>
+
+Weiterentwicklung mit Hexagram? <br>
+
+<br>
+
+
 * ## Literatur <br>
 <https://de.wikipedia.org/wiki/I_Ging> <br>
 <https://en.wikipedia.org/wiki/I_Ching> <br>
