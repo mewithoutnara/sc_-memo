@@ -10,4 +10,5 @@
 <br>
 
 * ## Weiterführende Literatur <br>
-*Foreword by Carl Gustav Jung* <https://www.iging.com/intro/foreword.htm>
+*Foreword by Carl Gustav Jung* <https://www.iging.com/intro/foreword.htm> <br>
+*Monadologie von Gottfried Wilhelm Leibniz* <https://de.wikipedia.org/wiki/Monadologie>
