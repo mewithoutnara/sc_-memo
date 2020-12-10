@@ -51,7 +51,7 @@
 
 ## Realisation in SuperCollider
 
-10. 12. 2020
+erstellt @ 2020.12.10
 
 ```
 ( /// I Ging hexagram _ Schicksalvorhersage ///
