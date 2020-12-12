@@ -64,6 +64,8 @@ var bi = ["⚊", "⚋"];
 )
 
 
+
+
 ///更简单的写法
 {["⚊", "⚋"].choose.postln}.dup(6)；
 
@@ -90,7 +92,7 @@ var itemsGen = {2.collect({bi.choose})};
 )
 
 
-/// von Patrick Bogeat “oder gleich automatisch jeden Morgen :)”
+//////////////////////// von Patrick Bogeat “oder gleich automatisch jeden Morgen :)”
 
 (
 Task({
@@ -105,3 +107,77 @@ Task({
 }).play
 )
 
+
+///////////////////////// Task 用于不太频繁更改的routine，可以start,pause, resume, reset, stop
+(
+t = Task({
+    50.do({ arg i;
+        i.squared.postln;
+        0.5.wait;
+    });
+});
+)
+
+t.start;
+t.pause;
+t.resume;
+t.reset;
+t.stop;
+
+
+( var bi = ["⚊", "⚋"];
+~ht = Task({
+    inf.do {
+		"🐔".postln;
+    6.do {
+      bi.choose.postln;
+    };
+    (60*60*24).wait;
+    "".postln;
+  };
+})
+)
+
+~ht.start;
+~ht.pause;
+~ht.resume;
+~ht.reset;
+~ht.stop;
+
+
+(
+g = Task({
+	inf.do{
+		("Ihr Schicksal heute lautet:").postln;
+	5.rand.wait;
+	6.do{0.5.coin.if({"⚊"}, {"⚋"}).postln};
+	"".postln;
+	rrand(0.1, 1).wait;
+	("Viel Erfolg! 🍀").postln;
+		(60*60*24).wait;
+
+}})
+)
+
+g.start;
+g.pause;
+g.resume;
+g.reset;
+g.stop;
+
+
+
+/////////////////////////////// fork 管理事件流，不能pause,不能stop
+
+( ///hexagram///
+var bi = ["⚊", "⚋"];
+fork{
+	hf = inf.do{ arg i;
+		("schicksal" ++" " ++ i).postln;
+		6.do{
+	bi.choose.postln;
+};
+	5.wait;
+	"".postln;
+};
+})
