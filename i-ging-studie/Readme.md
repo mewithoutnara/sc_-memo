@@ -10,7 +10,7 @@
 
 <br>
 
-## I Ching hexagrams / 周易后天六十四卦 <br>
+## I Ging die Hexagramme / 周易后天六十四卦 <br>
 
 ↓→  ☰ &nbsp; ☱ &nbsp; ☲ &nbsp; ☳ &nbsp; ☴ &nbsp; ☵ &nbsp; ☶ &nbsp; ☷ <br>
 ☰                             <br>
@@ -53,8 +53,8 @@
 
 erstellt @ 2020.12.10
 
-```
-( /// I Ging hexagram _ Schicksalvorhersage ///
+```supercollider
+( /// I Ging Die Hexagramme _ Schicksalvorhersage ///
 var bi = ["⚊", "⚋"];
 6.do{
 	bi.choose.postln;
@@ -79,7 +79,7 @@ Task({
 ```
 <br>
 
-Weiterentwicklung mit Hexagram? <br>
+Weiterentwicklung mit Hexagramme? <br>
 
 <br>
 
@@ -95,5 +95,6 @@ Weiterentwicklung mit Hexagram? <br>
 <br>
 
 * ## Weiterführende Literatur <br>
-*Foreword by Carl Gustav Jung* &nbsp; <https://www.iging.com/intro/foreword.htm> <br>
+*Foreword to the I Ching von Carl Gustav Jung* &nbsp; <https://www.iging.com/intro/foreword.htm> <br>
+*Synchronizität* &nbsp; <https://de.wikipedia.org/wiki/Synchronizit%C3%A4t> <br>
 *Monadologie von Gottfried Wilhelm Leibniz* &nbsp; <https://de.wikipedia.org/wiki/Monadologie>
