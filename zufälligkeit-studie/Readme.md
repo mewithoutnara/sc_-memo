@@ -9,7 +9,7 @@ a = {
 	env = Env.sine(dur: freq/110, level: 110/freq);
 	//env = Env.sine(dur: freq/1110, level: 110/freq);
 	osc = {SinOsc.ar(freq)};
-	Splay.ar(osc * EnvGen.kr(env, doneAction: Done.freeSelf), spread: 1, level: 0.2, center: 0); // doneAction: Done.freeSelf
+	Splay.ar(osc * EnvGen.kr(env, doneAction: Done.freeSelf), spread: 1, level: 0.2, center: 0); // doneAction: 2
 }
 )
 
