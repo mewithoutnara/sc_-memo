@@ -2,7 +2,7 @@
 
 
 * *Was für eine klangliche komposition kann ich machen, wenn ich so ein gedächtnisloser Mensch bin?* <br>
-
+   *（Kontingenz und Tacet sind sehr wichtig, müssen berücksichtigt werden.）* <br>
 <br>
 
 erstellt am 14. 12. 2020
