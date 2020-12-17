@@ -38,9 +38,8 @@ inf.do {a.play;
 // freq, env
 ```
 
+<br>
 
 ## Referenz
-
-<br>
 
 <i>[Lecture 1 [PARTE 1/4] Stockhausen Karlheinz - English Lectures (1972)](https://www.youtube.com/watch?v=lYmMXB0e17E)<i> <br>
