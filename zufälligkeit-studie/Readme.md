@@ -16,7 +16,7 @@ erstellt am 14. 12. 2020
 (
 a = {
     var freq, env, osc;
-	~size = [1, 2, 3, 5, 8].choose;
+	~size = [1, 2, 3, 5, 8].choose; // band width of group
 	freq = Array.exprand(~size, 550.0, 5500.0); // band width of pitch
 	env = Env.sine(dur: freq/110, level: 110/freq); // band width of duration
 	//env = Env.sine(dur: freq/1110, level: 110/freq);
